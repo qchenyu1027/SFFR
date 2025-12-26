@@ -1,0 +1,8 @@
+path: /home/shen5/FFKConv/SeeDroneSee
+train_rgb: /home/shen5/FFKConv/SeeDroneSee/visible/train  # 128 images
+val_rgb: /home/shen5/FFKConv/SeeDroneSee/visible/val  # 128 images
+train_ir: /home/shen5/FFKConv/SeeDroneSee/infrared/train  # 128 images
+val_ir: /home/shen5/FFKConv/SeeDroneSee/infrared/val  # 128 images
+nc: 7
+# class names
+names: ["swimmer", "floater", "boat", "human", "westperson", "lifejacket", "ignored"]
