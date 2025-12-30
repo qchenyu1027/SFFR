@@ -1,6 +1,6 @@
 SFFR: Spatial–Frequency Feature Reconstruction for Multispectral Aerial Object Detection
 ====
-Abstrac
+Abstract
 -------
 Recent multispectral object detection methods have primarily focused on spatial-domain feature fusion based on CNNs or Transformers, while the potential of frequency-domain feature remains underexplored. 
 In this work, we propose a novel Spatial and Frequency Feature Reconstruction method (SFFR) method, which leverages the spatial-frequency feature representation mechanisms of the Kolmogorov–Arnold Network (KAN) to reconstruct complementary representations in both spatial and frequency domains prior to feature fusion.
@@ -14,12 +14,15 @@ Paper download in [SFFR](https://ieeexplore.ieee.org/document/11240218)
 
 Overview
 -----
-
+![](https://github.com/qchenyu1027/SFFR/blob/master/data/images/overview.png)
 
 Installation
 -----
 
-` pip install -r requirements.txt` 
+```
+https://github.com/qchenyu1027/SFFR.git
+pip install -r requirements.txt
+```
 
 Weights
 ----
