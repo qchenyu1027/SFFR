@@ -28,15 +28,15 @@ Weights
 ----
 **DVTOD**
 
-Link: https://pan.baidu.com/s/12iWrfK7rnFvw9IhpaZ8n3Q?pwd=9869 提取码: 9869
+Link: https://pan.baidu.com/s/12iWrfK7rnFvw9IhpaZ8n3Q?pwd=9869 (9869)
 
 **SeaDroneSee**
 
-Link: https://pan.baidu.com/s/1Q_btR2GmH86V8kXz13fD2A?pwd=g7j2 提取码: g7j2
+Link: https://pan.baidu.com/s/1Q_btR2GmH86V8kXz13fD2A?pwd=g7j2 (g7j2)
 
 **DroneVehicle**
 
-Link: https://pan.baidu.com/s/1Z-IAu8fIbovD12oW1mBd7A?pwd=9dn4 提取码: 9dn4
+Link: https://pan.baidu.com/s/1Z-IAu8fIbovD12oW1mBd7A?pwd=9dn4 (9dn4)
 
 Cite us
 ---
