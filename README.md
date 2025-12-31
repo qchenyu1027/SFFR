@@ -40,22 +40,14 @@ Link: https://pan.baidu.com/s/1Z-IAu8fIbovD12oW1mBd7A?pwd=9dn4 (9dn4)
 
 Cite us
 ---
-@ARTICLE{11240218,
-
-  author={Zuo, Xin and Qu, Chenyu and Zhan, Haibo and Shen, Jifeng and Yang, Wankou},
-  
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  
-  title={SFFR: Spatial–Frequency Feature Reconstruction for Multispectral Aerial Object Detection}, 
-  
-  year={2025},
-  
-  volume={63},
-  
-  number={},
-  
-  pages={1-11},
-  
-  doi={10.1109/TGRS.2025.3631708}}
+@ARTICLE{11240218,     
+  author={Zuo, Xin and Qu, Chenyu and Zhan, Haibo and Shen, Jifeng and Yang, Wankou},     
+  journal={IEEE Transactions on Geoscience and Remote Sensing},    
+  title={SFFR: Spatial–Frequency Feature Reconstruction for Multispectral Aerial Object Detection},    
+  year={2025},   
+  volume={63},  
+  number={},  
+  pages={1-11},   
+  doi={10.1109/TGRS.2025.3631708}}  
 
 
