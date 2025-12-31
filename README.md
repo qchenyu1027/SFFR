@@ -48,7 +48,6 @@ Cite us
   volume={63},
   number={},
   pages={1-11},
-  keywords={Object detection;Feature extraction;Frequency-domain analysis;Transformers;Autonomous aerial vehicles;Adaptation models;Robustness;Image reconstruction;Representation learning;Lighting;Cross-modal and multiscale feature fusion;Fourier transform;Kolmogorov–Arnold network (KAN);spatial and frequency domain},
   doi={10.1109/TGRS.2025.3631708}}
 
 
